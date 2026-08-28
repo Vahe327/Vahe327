@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=44&duration=1&pause=99999&color=8B5CF6&center=true&vCenter=true&width=800&height=70&lines=VAHE+ARAMYAN" alt="Vahe Aramyan" />
+# ⟨ VAHE ARAMYAN ⟩
 
 <img src="https://img.shields.io/badge/FULLSTACK-0ea5e9?style=for-the-badge&labelColor=0ea5e9" />
 <img src="https://img.shields.io/badge/WEB3-8b5cf6?style=for-the-badge&labelColor=8b5cf6" />
