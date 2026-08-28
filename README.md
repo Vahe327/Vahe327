@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:ec4899&height=200&section=header&text=Vahe%20Aramyan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20%26%20Web3%20Developer%20%C2%B7%20Yerevan,%20Armenia&descAlignY=55&descSize=18" width="100%" />
+# Vahe Aramyan
+
+### Fullstack & Web3 Developer · Yerevan, Armenia
 
 <a href="https://vaheweb.xyz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Post-quantum+Layer-1+blockchain+from+scratch;Privacy-first+products+%E2%80%94+E2E+%2B+zero-knowledge;DeFi%2C+DEX+and+AI-powered+trading+terminals;In+crypto+since+2018" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Post-quantum+Layer-1+blockchain+from+scratch;Privacy-first+products+%E2%80%94+E2E+%2B+zero-knowledge;DeFi%2C+DEX+and+AI-powered+trading+terminals;In+crypto+since+2018" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +13,8 @@
 <a href="https://vaheweb.xyz"><img src="https://img.shields.io/badge/Portfolio-vaheweb.xyz-0ea5e9?style=for-the-badge&logo=safari&logoColor=white" /></a>
 <a href="https://qsnchain.com/en"><img src="https://img.shields.io/badge/QSN_Chain-qsnchain.com-8b5cf6?style=for-the-badge&logo=blockchaindotcom&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vahe-aramyan-192272159"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:offers@vaheweb.xyz"><img src="https://img.shields.io/badge/Email-offers@vaheweb.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Vahe327&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" />
 
 </div>
@@ -102,7 +106,7 @@ Anonymous messenger with end-to-end encryption, post-quantum protection and a **
 <td width="50%" valign="top">
 
 ### 🔄 QsnDEX
-AI-powered multichain DEX on **Taiko L2 & Arbitrum**: Anti-Rug Shield, batch swaps and a staking factory.
+AI-powered multichain DEX on **Taiko L2 and Arbitrum**: Anti-Rug Shield, batch swaps and a staking factory.
 
 `Solidity` · `AI risk scoring` · `Multichain`
 
@@ -122,7 +126,7 @@ AI DeFi trading terminal inside Telegram: swaps, liquidity and yield on TON via 
 </tr>
 </table>
 
-**Also in production:** **NixelSysteam** — marketplace analytics SaaS for Wildberries & Ozon sellers · **Nixel Chain** — private Layer-1 (DAG + GHOSTDAG, ring signatures) · **NeuroArb** — AI arbitrage engine · [TonPulseAI bot](https://t.me/TonPulseAI1_bot)
+**Also in production:** **NixelSysteam** — marketplace analytics SaaS for Wildberries and Ozon sellers · **Nixel Chain** — private Layer-1 (DAG + GHOSTDAG, ring signatures) · **NeuroArb** — AI arbitrage engine · [TonPulseAI bot](https://t.me/TonPulseAI1_bot)
 
 **On GitHub:** [quantix](https://github.com/Vahe327/quantix) — Solana trading platform (Raydium + Jupiter) · [wildberries_analytics](https://github.com/Vahe327/wildberries_analytics) — the first analytics prototype · [PayFlow](https://github.com/Vahe327/Payment-Platform-Test) — async payment platform (Sanic + PostgreSQL)
 
@@ -131,30 +135,17 @@ AI DeFi trading terminal inside Telegram: swaps, liquidity and yield on TON via 
 ## 🧭 The road here
 
 ```text
-2018  ├─ Bitcoin internals: keys, addresses, entropy
-2019  ├─ Python, FastAPI, Flask — backend foundations
-      │  Applied cryptography research: secp256k1, brainwallets, low-entropy keys
-2020  ├─ REST APIs, parsers and bots, PostgreSQL + Redis, high-load services
-2021  ├─ React, TypeScript and Solidity — deep dive into blockchain and DApps
-2022  ├─ Smart contracts and DeFi: DEX, AMM, liquidity pools, multichain wallets (EVM + TON)
-2023  ├─ Telegram Mini Apps and TON: FunC, Tact, games with real crypto-economics
-2024  ├─ Fullstack mastery: Go, Rust, Next.js, Vue — marketplace analytics, real-time video/voice
-2025  ├─ Privacy & blockchain R&D: Rust, ZK, cryptography — Layer-1 protocol work
-2026  └─ Launch: QSN Chain, Nixel Chain and Nixel Chat — a live privacy ecosystem
+2018  Bitcoin internals: keys, addresses, entropy
+2019  Python, FastAPI, Flask - backend foundations
+      Applied cryptography research: secp256k1, brainwallets, low-entropy keys
+2020  REST APIs, parsers and bots, PostgreSQL + Redis, high-load services
+2021  React, TypeScript and Solidity - deep dive into blockchain and DApps
+2022  Smart contracts and DeFi: DEX, AMM, liquidity pools, multichain wallets (EVM + TON)
+2023  Telegram Mini Apps and TON: FunC, Tact, games with real crypto-economics
+2024  Fullstack mastery: Go, Rust, Next.js, Vue - marketplace analytics, real-time video/voice
+2025  Privacy and blockchain R&D: Rust, ZK, cryptography - Layer-1 protocol work
+2026  Launch: QSN Chain, Nixel Chain and Nixel Chat - a live privacy ecosystem
 ```
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vahe327&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=8b5cf6&title_color=38BDF8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vahe327&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&langs_count=8" height="165" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vahe327&theme=tokyo-night&hide_border=true&bg_color=00000000&color=38BDF8&line=8b5cf6&point=ec4899&area=true" width="95%" />
-
-</div>
 
 ---
 
@@ -174,8 +165,6 @@ Most of my production work lives in private repositories — happy to walk you t
 <a href="https://www.linkedin.com/in/vahe-aramyan-192272159"><img src="https://img.shields.io/badge/LinkedIn-Vahe_Aramyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://vaheweb.xyz"><img src="https://img.shields.io/badge/Website-vaheweb.xyz-0ea5e9?style=for-the-badge&logo=safari&logoColor=white" /></a>
 
-📍 Yerevan, Armenia · 🌐 Working worldwide, remote
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:0ea5e9&height=120&section=footer" width="100%" />
+**📍 Yerevan, Armenia · 🌐 Working worldwide, remote**
 
 </div>
