@@ -12,9 +12,11 @@
 
 <a href="https://vaheweb.xyz"><img src="https://img.shields.io/badge/Portfolio-vaheweb.xyz-0ea5e9?style=for-the-badge&logo=safari&logoColor=white" /></a>
 <a href="https://qsnchain.com/en"><img src="https://img.shields.io/badge/QSN_Chain-qsnchain.com-8b5cf6?style=for-the-badge&logo=blockchaindotcom&logoColor=white" /></a>
+<a href="https://umbera.app"><img src="https://img.shields.io/badge/Umbera-umbera.app-6366f1?style=for-the-badge&logo=signal&logoColor=white" /></a>
+<a href="https://nixelsysteam.com"><img src="https://img.shields.io/badge/NixelSysteam-nixelsysteam.com-10b981?style=for-the-badge&logo=databricks&logoColor=white" /></a>
+<br/>
 <a href="https://www.linkedin.com/in/vahe-aramyan-192272159"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:offers@vaheweb.xyz"><img src="https://img.shields.io/badge/Email-offers@vaheweb.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br/>
 <img src="https://komarev.com/ghpvc/?username=Vahe327&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" />
 
 </div>
@@ -95,14 +97,26 @@ Post-quantum PoS **Layer-1 blockchain built from scratch in Rust**, with the QVM
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Nixel Chat
+### 🔐 Umbera
 Anonymous messenger with end-to-end encryption, post-quantum protection and a **zero-knowledge architecture** — keys never leave the device, so not even I can read your messages.
 
 `E2E` · `PQC` · `Kotlin + Jetpack Compose` · `SQLCipher` · `Tor`
 
+[umbera.app](https://umbera.app)
+
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 📊 NixelSysteam
+Marketplace analytics SaaS for **Wildberries and Ozon** sellers: unit economics, P&L, repricer, ad bidder and AI recommendations — multi-language and multi-currency.
+
+`Rust` · `Next.js` · `PostgreSQL` · `ClickHouse` · `AI`
+
+[nixelsysteam.com](https://nixelsysteam.com)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔄 QsnDEX
@@ -113,6 +127,8 @@ AI-powered multichain DEX on **Taiko L2 and Arbitrum**: Anti-Rug Shield, batch s
 [Website](https://qsndex.xyz) · [Code](https://github.com/Vahe327/QsnDEX)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📈 TonPulse
@@ -120,13 +136,19 @@ AI DeFi trading terminal inside Telegram: swaps, liquidity and yield on TON via 
 
 `TON` · `STON.fi` · `TypeScript` · `Telegram Mini App`
 
-[Code](https://github.com/Vahe327/TonPulse)
+[Code](https://github.com/Vahe327/TonPulse) · [Bot](https://t.me/TonPulseAI1_bot)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕸️ Nixel Chain & NeuroArb
+A private Layer-1 (DAG + GHOSTDAG, ring signatures) and an AI arbitrage engine — the research side of the ecosystem.
+
+`Rust` · `DAG` · `Ring signatures` · `AI`
 
 </td>
 </tr>
 </table>
-
-**Also in production:** **NixelSysteam** — marketplace analytics SaaS for Wildberries and Ozon sellers · **Nixel Chain** — private Layer-1 (DAG + GHOSTDAG, ring signatures) · **NeuroArb** — AI arbitrage engine · [TonPulseAI bot](https://t.me/TonPulseAI1_bot)
 
 **On GitHub:** [quantix](https://github.com/Vahe327/quantix) — Solana trading platform (Raydium + Jupiter) · [wildberries_analytics](https://github.com/Vahe327/wildberries_analytics) — the first analytics prototype · [PayFlow](https://github.com/Vahe327/Payment-Platform-Test) — async payment platform (Sanic + PostgreSQL)
 
@@ -144,7 +166,7 @@ AI DeFi trading terminal inside Telegram: swaps, liquidity and yield on TON via 
 2023  Telegram Mini Apps and TON: FunC, Tact, games with real crypto-economics
 2024  Fullstack mastery: Go, Rust, Next.js, Vue - marketplace analytics, real-time video/voice
 2025  Privacy and blockchain R&D: Rust, ZK, cryptography - Layer-1 protocol work
-2026  Launch: QSN Chain, Nixel Chain and Nixel Chat - a live privacy ecosystem
+2026  Launch: QSN Chain, Nixel Chain and Umbera - a live privacy ecosystem
 ```
 
 ---
