@@ -30,13 +30,13 @@ Privacy, cryptography and Web3 are what drive me: I build anonymous, decentraliz
 <table>
 <tr><td>
 
-### <img src="https://qsnchain.com/assets/tokens/qsn-logo.png" height="20" /> &nbsp;QSN — Quantum Sharded Network
+### <img src="https://api.iconify.design/lucide/atom.svg?color=%236366f1&width=20" height="20" /> &nbsp;Post-quantum Layer-1 blockchain with an AI core &nbsp;<sub>— under NDA</sub>
 
-Post-quantum PoS **Layer-1 blockchain written from scratch in Rust**, with the QVM virtual machine and native cross-chain bridges. The full stack is mine: core node, explorer, web wallet, desktop (Electron) and native Android wallet.
+A production-ready **Layer-1 blockchain written from scratch in Rust**: post-quantum signatures, its own virtual machine, native cross-chain bridges and an **AI engine built into the network** for routing and analytics. The whole stack is mine — core node, explorer, web, desktop and native Android wallets.
 
-<img src="https://img.shields.io/badge/Rust-0f172a?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/75,000+_TPS-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/2–5s_finality-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/CRYSTALS–Dilithium_·_Kyber-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Kotlin_·_Compose-0f172a?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Rust-0f172a?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/75,000+_TPS-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/2–5s_finality-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/CRYSTALS–Dilithium_·_Kyber-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Own_VM-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/AI_core-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Kotlin_·_Compose-0f172a?style=flat-square&logo=kotlin&logoColor=white" />
 
-[Website](https://qsnchain.com/en) &nbsp;·&nbsp; [Explorer](https://qsnscan.io) &nbsp;·&nbsp; [Docs](https://github.com/Vahe327/Quantum-Sharded-Network-Docs)
+<sub>Name, links and sources are not public at the moment. Available privately on request.</sub>
 
 </td></tr>
 <tr><td>
@@ -74,13 +74,13 @@ A **coin I built from scratch in C++** on the CryptoNote stack: daemon, simplewa
 </td></tr>
 <tr><td>
 
-### <img src="https://qsndex.xyz/favicon.ico" height="20" /> &nbsp;QsnDEX
+### <img src="https://api.iconify.design/lucide/repeat.svg?color=%236366f1&width=20" height="20" /> &nbsp;AI-powered multichain DEX
 
-AI-powered multichain DEX on Taiko L2 and Arbitrum: **Anti-Rug Shield**, batch swaps and a staking factory.
+Decentralized exchange on Taiko L2 and Arbitrum with an **Anti-Rug Shield**, batch swaps, a staking factory and AI risk scoring for tokens.
 
 <img src="https://img.shields.io/badge/Solidity-0f172a?style=flat-square&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/AI_risk_scoring-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Taiko_L2-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Arbitrum-0f172a?style=flat-square&logo=arbitrum&logoColor=white" />
 
-[Website](https://qsndex.xyz) &nbsp;·&nbsp; [Code](https://github.com/Vahe327/QsnDEX)
+<sub>Part of the same ecosystem — details on request.</sub>
 
 </td></tr>
 <tr><td>
@@ -150,11 +150,11 @@ I'm happy to walk you through any of it — code review over a call, architectur
 | **2023** | Telegram Mini Apps and TON: FunC, Tact, games with real crypto-economics |
 | **2024** | Rust, Next.js and Vue — marketplace analytics, real-time video and voice, secure messaging |
 | **2025** | Privacy and blockchain R&D: Rust, ZK, post-quantum cryptography, Layer-1 protocol work |
-| **2026** | **NixelSysteam live in production**, QSN Chain and Nixel Chain launched, **Umbera in active development** |
+| **2026** | **NixelSysteam live in production**, a post-quantum Layer-1 and a private Layer-1 launched, **Umbera in active development** |
 
 ## <img src="https://api.iconify.design/lucide/handshake.svg?color=%236366f1&width=20" height="20" /> &nbsp;Let's work together
 
-I'm open to partnerships, investment and grants for **QSN Chain**, and I take on commercial work: Telegram Mini Apps and bots, SaaS platforms, marketplace parsers, AI assistants, smart contracts and DeFi, plus integrations with 1C, CRM and external APIs.
+I'm open to partnerships and investment in blockchain and privacy infrastructure, and I take on commercial work: Telegram Mini Apps and bots, SaaS platforms, marketplace parsers, AI assistants, smart contracts and DeFi, plus integrations with 1C, CRM and external APIs.
 
 <div align="center">
 <br/>
