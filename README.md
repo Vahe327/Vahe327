@@ -97,12 +97,14 @@ Post-quantum PoS **Layer-1 blockchain built from scratch in Rust**, with the QVM
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Umbera
+### <img src="https://umbera.app/icon.png" width="22" align="top" /> Umbera
 Anonymous messenger with end-to-end encryption, post-quantum protection and a **zero-knowledge architecture** — keys never leave the device, so not even I can read your messages.
 
 `E2E` · `PQC` · `Kotlin + Jetpack Compose` · `SQLCipher` · `Tor`
 
 [umbera.app](https://umbera.app)
+
+📱 **Coming soon to Google Play and the App Store** — download links will be added here as soon as the apps are live.
 
 </td>
 </tr>
