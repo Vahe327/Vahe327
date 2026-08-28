@@ -87,7 +87,7 @@ I build digital products that live where technology meets ideas — web apps, DA
 <tr>
 <td width="50%" valign="top">
 
-### ⚛️ QSN — Quantum Sharded Network
+### <img src="https://qsnchain.com/assets/tokens/qsn-logo.png" width="22" align="top" /> QSN — Quantum Sharded Network
 Post-quantum PoS **Layer-1 blockchain built from scratch in Rust**, with the QVM virtual machine and native cross-chain bridges.
 
 `75,000+ TPS` · `2–5s finality` · `50+ validators` · `CRYSTALS-Dilithium / Kyber`
@@ -111,7 +111,7 @@ Anonymous messenger with end-to-end encryption, post-quantum protection and a **
 <tr>
 <td width="50%" valign="top">
 
-### 📊 NixelSysteam
+### <img src="https://nixelsysteam.com/icon-192.png" width="22" align="top" /> NixelSysteam
 Marketplace analytics SaaS for **Wildberries and Ozon** sellers: unit economics, P&L, repricer, ad bidder and AI recommendations — multi-language and multi-currency.
 
 `Rust` · `Next.js` · `PostgreSQL` · `ClickHouse` · `AI`
