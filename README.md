@@ -7,7 +7,7 @@
   <a href="mailto:offers@vaheweb.xyz"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=maildotru&logoColor=white" /></a>
   <a href="https://t.me/Va_devs"><img src="https://img.shields.io/badge/Telegram-0f172a?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vahe-aramyan-192272159"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Vahe327&style=flat-square&color=475569&label=views" />
+  <img src="https://vaheweb.xyz/badge/views" alt="views" />
 </div>
 
 <br/>
