@@ -48,7 +48,7 @@ Anonymous messenger with end-to-end encryption, post-quantum protection and a **
 
 <img src="https://img.shields.io/badge/Go-0f172a?style=flat-square&logo=go&logoColor=00ADD8" /> <img src="https://img.shields.io/badge/Kotlin_·_Compose-0f172a?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/E2E_encryption-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Post–quantum-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/SQLCipher-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Tor-0f172a?style=flat-square&logo=torproject&logoColor=white" />
 
-[umbera.app](https://umbera.app) &nbsp;·&nbsp; [App Store](https://apps.apple.com/app/umbera-private-messenger/id6805525799) &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=cc.umbera.app) &nbsp;·&nbsp; [GitHub](https://github.com/Vahe327/UMBERA) &nbsp;·&nbsp; [X @umberaapp](https://x.com/umberaapp)
+[umbera.app](https://umbera.app) &nbsp;·&nbsp; [App Store](https://apps.apple.com/app/umbera-private-messenger/id6805525799) &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=cc.umbera.app) &nbsp;·&nbsp; [GitHub](https://github.com/UmberaAPP/UMBERA) &nbsp;·&nbsp; [X @umberaapp](https://x.com/umberaapp)
 
 </td></tr>
 <tr><td>
