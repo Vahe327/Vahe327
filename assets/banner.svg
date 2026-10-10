@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Vahe Aramyan — Fullstack and Web3 Developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Vahe Aramyan — Engineering">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b1120"/>
@@ -38,13 +38,13 @@
     <circle cx="965" cy="280" r="4"/><circle cx="905" cy="245" r="4"/><circle cx="905" cy="175" r="4"/>
   </g>
 
-  <text x="72" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" letter-spacing="6" fill="#7dd3fc" font-weight="600">FULLSTACK &#183; WEB3 &#183; BLOCKCHAIN</text>
+  <text x="72" y="118" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="17" letter-spacing="6" fill="#7dd3fc" font-weight="600">ENGINEERING &#183; BLOCKCHAIN &#183; MOBILE &#183; AI</text>
 
   <text x="70" y="188" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="700" fill="#f8fafc">Vahe Aramyan</text>
 
   <rect x="72" y="208" width="132" height="4" rx="2" fill="url(#accent)"/>
 
-  <text x="72" y="248" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" fill="#cbd5e1">Post-quantum Layer-1 blockchains &#183; privacy-first products &#183; AI-powered DeFi</text>
+  <text x="72" y="248" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="20" fill="#cbd5e1">Post-quantum Layer-1 blockchains &#183; Umbera messenger &#183; own CRM platform &#183; AI</text>
 
   <g font-family="Consolas, Menlo, monospace" font-size="14" fill="#94a3b8">
     <rect x="72" y="268" width="86" height="26" rx="13" fill="#ffffff" fill-opacity="0.06"/>
