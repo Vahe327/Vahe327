@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Vahe Aramyan — Fullstack & Web3 Developer" width="100%" />
+  <img src="assets/banner.svg" alt="Vahe Aramyan — Engineering" width="100%" />
 </div>
 
 <div align="center">
@@ -7,6 +7,7 @@
   <a href="mailto:offers@vaheweb.xyz"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=maildotru&logoColor=white" /></a>
   <a href="https://t.me/Va_devs"><img src="https://img.shields.io/badge/Telegram-0f172a?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vahe-aramyan-192272159"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://umbera.app"><img src="https://img.shields.io/badge/Umbera_messenger-0f172a?style=flat-square&logo=signal&logoColor=white" /></a>
   <img src="https://vaheweb.xyz/badge/views" alt="views" />
 </div>
 
@@ -41,13 +42,13 @@ A production-ready **Layer-1 blockchain written from scratch in Rust**: post-qua
 </td></tr>
 <tr><td>
 
-### <img src="https://umbera.app/icon.png" height="20" /> &nbsp;Umbera &nbsp;<sub>— in active development</sub>
+### <img src="https://umbera.app/icon.png" height="20" /> &nbsp;Umbera &nbsp;<sub>— live on the App Store and Google Play</sub>
 
-Anonymous messenger with end-to-end encryption, post-quantum protection and a **zero-knowledge architecture** — keys never leave the device, so not even I can read your messages. Go backend, native Android client, encrypted local storage.
+Anonymous messenger with end-to-end encryption, post-quantum protection and a **zero-knowledge architecture** — keys never leave the device, so not even I can read your messages. Go backend, native Android and iPhone apps, encrypted local storage.
 
 <img src="https://img.shields.io/badge/Go-0f172a?style=flat-square&logo=go&logoColor=00ADD8" /> <img src="https://img.shields.io/badge/Kotlin_·_Compose-0f172a?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/E2E_encryption-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Post–quantum-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/SQLCipher-0f172a?style=flat-square" /> <img src="https://img.shields.io/badge/Tor-0f172a?style=flat-square&logo=torproject&logoColor=white" />
 
-[umbera.app](https://umbera.app) &nbsp;·&nbsp; Google Play and App Store — coming soon, links land here once live.
+[umbera.app](https://umbera.app) &nbsp;·&nbsp; [App Store](https://apps.apple.com/app/umbera-private-messenger/id6805525799) &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=cc.umbera.app) &nbsp;·&nbsp; [GitHub](https://github.com/Vahe327/UMBERA) &nbsp;·&nbsp; [X @umberaapp](https://x.com/umberaapp)
 
 </td></tr>
 <tr><td>
@@ -150,7 +151,7 @@ I'm happy to walk you through any of it — code review over a call, architectur
 | **2023** | Telegram Mini Apps and TON: FunC, Tact, games with real crypto-economics |
 | **2024** | Rust, Next.js and Vue — marketplace analytics, real-time video and voice, secure messaging |
 | **2025** | Privacy and blockchain R&D: Rust, ZK, post-quantum cryptography, Layer-1 protocol work |
-| **2026** | **NixelSysteam live in production**, a post-quantum Layer-1 and a private Layer-1 launched, **Umbera in active development** |
+| **2026** | **NixelSysteam live in production**, a post-quantum Layer-1 and a private Layer-1 launched, **Umbera live on the App Store and Google Play** |
 
 ## <img src="https://api.iconify.design/lucide/handshake.svg?color=%236366f1&width=20" height="20" /> &nbsp;Let's work together
 
